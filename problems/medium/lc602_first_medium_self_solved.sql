@@ -1,3 +1,15 @@
+'First Medium Self-solved'
+'Monday April 21st 2025'
+'Kendrick N'
+
+SELECT name
+FROM Employee
+WHERE id IN (
+    SELECT managerId
+    FROM Employee
+    GROUP BY managerId
+    HAVING COUNT(*) >= 5
+);
 WITH Manager AS (
     SELECT DISTINCT managerId,
            COUNT(*) 
