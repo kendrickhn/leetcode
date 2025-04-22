@@ -1,4 +1,4 @@
-id,title,level,date,solved_by,tags,attempt_time
+id,title,level,date,solved_by,attempt_time,
 1873,Calculate Special Bonus,Easy,2025-03-08,Self,
 196,Delete Duplicate Emails,Easy,2025-03-08,Self,
 183,Customers Who Never Order,Easy,2025-03-08,Self,
@@ -30,4 +30,6 @@ id,title,level,date,solved_by,tags,attempt_time
 1280,Students and Examinations,Easy,2025-04-21,AI, 
 2145,Count The Hidden Sequences,Medium,2025-04-21,AI,
 602,Manager With At Least 5 Direct Reports,Medium,2025-04-21,Self, 
-1934,Confirmation Rate,Medium,2025-04-22,Self,30
+1934,Confirmation Rate,Medium,2025-04-22,Self,40, 
+630,Not Boring Movies,Easy,2025-04-22,Self,12, 
+
