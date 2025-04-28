@@ -57,4 +57,5 @@ id,title,level,date,solved_by,attempt_time,
 1204,Last Person to Fit in the Bus,Medium,2025-04-27,Self,74, 
 1907,Count Salary Categories,Medium,2025-04-27,Other,
 1978,Employees Whose Manager Left The Company,Easy,2025-04-27,Self,2, 
+2302,Count Subarrays With Score Less Than K,Hard,2025-04-28,AI, 
 
