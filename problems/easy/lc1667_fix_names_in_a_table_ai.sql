@@ -4,3 +4,4 @@ SELECT user_id,
     LOWER(SUBSTRING(name,2))
   ) AS name
 FROM Users
+order by 1
