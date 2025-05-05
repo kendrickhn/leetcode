@@ -89,3 +89,6 @@ id,title,level,date,solved_by,attempt_time,
 262,Trips and Users,Hard,2025-05-3,Self,28, 
 601,Human Traffic of Stadium,Hard,2025-05-3,Self,25,
 1007,Minimum Domino Rotations For Equal Row,Medium.2025-05-4,AI,
+790,Domino and Tromino Tiling,Medium,2025-05-05,AI,
+1128,Number of Equivalent Domino Pairs,Easy,2025-05-05,AI, 
+
