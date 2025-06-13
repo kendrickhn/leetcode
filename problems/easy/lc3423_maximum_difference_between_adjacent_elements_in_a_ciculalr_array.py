@@ -5,3 +5,4 @@ class Solution:
         for i in range(n - 1):
             res = max(res, abs(nums[i] - nums[i + 1]))
         return res
+    
