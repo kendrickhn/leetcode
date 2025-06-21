@@ -144,3 +144,4 @@ id,title,level,date,solved_by,attempt_time,
 1432,Max Difference You Can Get From Changing an Integer,
 2016,Maximum Difference Between Increasing Elements,
 3405,Count the Number of Arrays with K Matching Adjacent Elements,
+3085,Minimum Deletions to Make String K-Special
