@@ -146,3 +146,4 @@ id,title,level,date,solved_by,attempt_time,
 3405,Count the Number of Arrays with K Matching Adjacent Elements,
 3085,Minimum Deletions to Make String K-Special
 1,Two Sum,Easy,2025-06-28,Self,55, 
+2099,Find Subsequence of Length K With the Largest Sum,Easy,2025-06-29,Self,46,

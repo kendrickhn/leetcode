@@ -7,5 +7,5 @@ class Solution:
             if b in nums and nums.index(b) != c:
                 a.append(nums.index(b))
                 return a
-            
+             
                 
