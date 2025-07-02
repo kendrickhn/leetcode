@@ -147,3 +147,7 @@ id,title,level,date,solved_by,attempt_time,
 3085,Minimum Deletions to Make String K-Special
 1,Two Sum,Easy,2025-06-28,Self,55, 
 2099,Find Subsequence of Length K With the Largest Sum,Easy,2025-06-29,Self,46,
+3330,Find the Original Typed String I,Easy,2025-07-02,Self,32,
+3333,Find the Original Typed String II,Hard,2025-07-01,Other,
+594,Longest Harmonious Subsequence,Easy,2025-07-2,Self,15,
+
