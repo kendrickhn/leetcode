@@ -160,8 +160,9 @@ id,title,level,date,solved_by,attempt_time,
 1431,Kids With the Greatest Number of Candies,Easy,2025-07-11,Self,10,
 605,Can Place Flowers,Easy,2025-07-11,Self,27,
 345,Reverse Vowels of a String,Easy,2025-07-11,Self,11, 
-3136,Valid Word,Easy,2025-07-16,19,
-151,Reverse Words in a String,Medium,2025-07-16,10, 
-238,Product of Array Except Self,Medium,2025-07-16,23,
+3136,Valid Word,Easy,2025-07-16,Self,19,
+151,Reverse Words in a String,Medium,2025-07-16,Self,10, 
+238,Product of Array Except Self,Medium,2025-07-16,Self,23,
+283,Move Zeroes,Easy,2025-07-20,Self,10,
 
 
