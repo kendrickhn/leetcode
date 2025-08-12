@@ -172,4 +172,6 @@ id,title,level,date,solved_by,attempt_time,
 1456,Maximum Number of Vowels in a Substring of Given Length,Medium,2025-07-23,Self,16,
 231,Power Of Two,Easy,Easy,2025-08-9,Self,5,
 2438,Range Product Queries of Powers,Medium,2025-08-11,Other,
+2787,Ways to Express an Integer as Sum of Powers,Medium,2025-08-12,Other,
+
 
