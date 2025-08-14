@@ -9,4 +9,4 @@ class Solution:
                 dp[i][j] = dp[i - 1][j]
                 if j >= val:
                     dp[i][j] = (dp[i][j] + dp[i - 1][j - val]) % MOD
-        return dp[n][n
+        return dp[n][n]
