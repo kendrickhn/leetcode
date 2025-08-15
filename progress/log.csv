@@ -176,4 +176,4 @@ id,title,level,date,solved_by,attempt_time,
 2264,Largest 3-Same-Digit Number in String,Easy,2025-08-14,Self,6,
 2966,Divide Array Into Arrays With Max Difference,Medium,2025-06-18,Other,
 342,Power of Four,Easy,2025-08-15,Self,8, 
-
+2294,Partition Array Such That Maximum Difference Is K,Medium,2025-06-19,Other,
