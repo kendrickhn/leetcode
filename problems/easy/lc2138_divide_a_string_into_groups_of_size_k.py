@@ -16,3 +16,5 @@ class Solution:
             groups.append(last_group)
         
         return groups
+
+1
