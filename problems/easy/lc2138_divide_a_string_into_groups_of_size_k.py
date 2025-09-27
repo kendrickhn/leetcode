@@ -17,4 +17,4 @@ class Solution:
         
         return groups
 
-12
+123
