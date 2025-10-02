@@ -17,4 +17,4 @@ class Solution:
         
         return groups
 
-1
+12
