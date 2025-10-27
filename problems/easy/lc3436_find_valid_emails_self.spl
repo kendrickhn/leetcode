@@ -1,0 +1,5 @@
+-- solved in 2:35
+select user_id, email 
+from Users
+where REGEXP_LIKE(email,'^[A-Za-z_0-9]+@[A-Za-z]+\.com$')
+order by user_id

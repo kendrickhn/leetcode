@@ -1,0 +1,41 @@
+`Initial Code`
+
+with C1 as (
+    Select user_id, 
+    count(*) as total
+    from Confirmations
+    group by 1
+),
+C2 as (
+    Select user_id, 
+    count(*) as cfm 
+    from Confirmations
+    where action = 'confirmed'
+    group by 1
+), 
+C3 as (
+    select C1.user_id, 
+    C2.cfm, 
+    C1.total 
+from C1
+join C2
+on C1.user_id=C2.user_id
+)
+select S.user_id,
+    IFNULL(round((C3.cfm/C3.total),2) , 0) as confirmation_rate
+from Signups S
+left join C3
+on S.user_id=C3.user_id;
+
+`Short verison`
+
+SELECT 
+    S.user_id,
+    ROUND(
+        IFNULL(SUM(action = 'confirmed') / COUNT(C.user_id), 0), 
+        2
+    ) AS confirmation_rate
+FROM Signups S
+LEFT JOIN Confirmations C
+    ON S.user_id = C.user_id
+GROUP BY S.user_id;
